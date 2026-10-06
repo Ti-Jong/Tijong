@@ -1,5 +1,5 @@
 <h1 align="center">Hai 👋, saya Tito John</h1>
-<h3 align="center">Seorang pengembang frontend yang bersemangat dari India</h3>
+<h3 align="center">Seorang pengembang frontend </h3>
 
 - 🔭 Saat ini saya bekerja sebagai **Freelancer**
 
